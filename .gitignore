@@ -1,3 +1,6 @@
 signal-processing/*.dat 
 signal-processing/*.bz2 
 signal-processing/*.py 
+.venv/ 
+__pycache__/ 
+signal-processing/*.dat 
